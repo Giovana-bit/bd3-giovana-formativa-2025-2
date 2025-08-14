@@ -1,3 +1,14 @@
-# bd3-giovana-formativa-2025-2
+# 📚 bd3-giovana-formativa-2025-2
 
-Aula de banco de dados 3, focado em NoSql e MongoDB
+Aqui se encontra o respositório de anotações, instruções e para futura avalições das aulas de NoSQL, focado no MongoDB
+
+---
+
+## 🖥️ Conteúdo adquirido:
+
+- Criando bancos de dados;
+- Criando Coleção;
+- Intersecção one(um) e many(muitos);
+- Seleção com critério e sem;
+- Ocultação de conteúdo na seleção;
+- Atualizações e Exclusão One
