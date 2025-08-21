@@ -16,7 +16,7 @@ use(database);
 }); */
 
 /* Seleciona os dados de todos os arquivos com critério e ocultando certos campos */
-db['Livraria'].find({
+/*db['Livraria'].find({
     "categoria": "Fantasia Heroica"
 },
 {
@@ -24,5 +24,9 @@ db['Livraria'].find({
   "codigo": 0,
   "descricao": 0
 }
-); 
+); */
 
+/* Selecionar Arquivos que contenham uma insidência especifica de texto */
+db['Livraria'].find({
+  "descricao": /robô/i //Utiliza-se o /texto/i para buscar insidências de texto, sendo o i para ignorar maiúsculas e minúsculas
+});
