@@ -12,4 +12,5 @@ Aqui se encontra o respositório de anotações, instruções e para futura aval
 - Seleção com critério e sem;
 - Ocultação de conteúdo na seleção;
 - Atualizações e Exclusão One;
-- Seleção com operadores (`$gt`, `$gte`, `$lt`, `$lte`, `$and`, `$or`)
+- Seleção com operadores (`$gt`, `$gte`, `$lt`, `$lte`, `$and`, `$or`, `$in`)
+
